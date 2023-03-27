@@ -1,0 +1,20 @@
+.App {
+  text-align: center;
+  color: aqua;
+  background-image: url("/public/sunsetTextBackground.jpg");
+  background-repeat: no-repeat;
+  background-size: cover;
+  min-height: 100vh;
+}
+
+
+.App-header {
+  background-color: #282c34;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  font-size: calc(10px + 2vmin);
+  font-family: monospace;
+  color: white;
+}
